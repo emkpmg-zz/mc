@@ -47,16 +47,16 @@ N.B: The Guide clearly states that there is no simple rule for determining the e
 
 # Reference
 Schlimmer,J.S. (1987). Concept Acquisition Through Representational Adjustment (Technical Report 87-19). Doctoral disseration, Department of Information and Computer Science, University of California, Irvine. 
-[Web Link] 
+[http://rexa.info/paper/fbd1dcb58b86c6fa9bb5eadb994213d751a55ff7] 
 
 Iba,W., Wogulis,J., & Langley,P. (1988). Trading off Simplicity and Coverage in Incremental Concept Learning. In Proceedings of the 5th International Conference on Machine Learning, 73-79. Ann Arbor, Michigan: Morgan Kaufmann. 
-[Web Link] 
+[http://rexa.info/paper/e5b500eb8d8cc46b19f7ddf4d0876060c4bcf844] 
 
-Duch W, Adamczak R, Grabczewski K (1996) Extraction of logical rules from training data using backpropagation networks, in: Proc. of the The 1st Online Workshop on Soft Computing, 19-30.Aug.1996, pp. 25-30, [Web Link] 
-[Web Link] 
+Duch W, Adamczak R, Grabczewski K (1996) Extraction of logical rules from training data using backpropagation networks, in: Proc. of the The 1st Online Workshop on Soft Computing, 19-30.Aug.1996, pp. 25-30, [http://www.bioele.nuee.nagoya-u.ac.jp/wsc1/] 
+[http://rexa.info/paper/41ba321976970401618d6748a9ecbd769bc50da9] 
 
 Duch W, Adamczak R, Grabczewski K, Ishikawa M, Ueda H, Extraction of crisp logical rules using constrained backpropagation networks - comparison of two new approaches, in: Proc. of the European Symposium on Artificial Neural Networks (ESANN'97), Bruge, Belgium 16-18.4.1997. 
-[Web Link]
+[http://rexa.info/paper/cbfc5b79f03770a32505b3342b2e330a1626be7d]
 
 # Publication Citation Reference
 http://archive.ics.uci.edu/ml/citation_policy.html
